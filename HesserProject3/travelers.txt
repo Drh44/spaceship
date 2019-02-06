@@ -1,0 +1,10 @@
+p,Klaes Ashford,BELT,FIRST,1499.99,3459
+c,James T Kirk,BELT,Captain,234.00,6728
+p,James Gosling,MARS,BUSINESS,998.00,0
+p,Alan Turing,RING,COACH,449.00,94532
+c,Luke Skywalker,EARTH,Co-Captain,125.00,109272
+c,Buck Rodgers,MARS,Crew,34.00,34
+c,Joe Smith,BELT,Captain,1234.00,9228
+p,James Morris,EARTH,FIRST,1499.99,13459
+c,Les Mills,RING,Co-Captain,223.00,7488
+c,Frank Gifford,MARS,Crew,274.00,16728
